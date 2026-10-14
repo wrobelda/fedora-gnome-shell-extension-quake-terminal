@@ -4,7 +4,7 @@
 Name:           gnome-shell-extension-quake-terminal
 Version:        1.3.0
 Release:        %autorelease
-Summary:        Drop-down terminal for GNOME Shell
+Summary:        Drop-down terminal wrapper for GNOME Shell
 
 License:        GPL-3.0-or-later
 URL:            https://github.com/diegodario88/quake-terminal
